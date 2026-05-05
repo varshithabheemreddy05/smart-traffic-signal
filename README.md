@@ -15,3 +15,8 @@ This project simulates a smart traffic signal system that dynamically assigns gr
 ## ▶️ How to Run
 ```bash
 python main.py
+
+
+
+## 📸 Output Screenshot
+![Output](Screenshot.png)
