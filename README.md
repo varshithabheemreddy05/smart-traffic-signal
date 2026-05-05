@@ -18,5 +18,4 @@ python main.py
 
 
 
-## 📸 Output Screenshot
-![Output](Screenshot.png)
+![Output](https://raw.githubusercontent.com/your-username/smart-traffic-signal/main/Screenshot.png)
