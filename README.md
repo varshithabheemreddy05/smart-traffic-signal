@@ -5,7 +5,7 @@ This project simulates a smart traffic signal system that dynamically assigns gr
 
 ## 🚀 Features
 - Detects highest traffic lane
-- Handles tie situations
+- Handles tie situations 
 - Uses round-robin rotation for fairness
 - Simulates real-time traffic decisions
 
